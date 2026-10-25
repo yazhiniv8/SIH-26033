@@ -94,3 +94,6 @@ Farmer Registration → Product Listing → Buyer Searches and Orders → Demand
 3. e-NAM (National Agriculture Market) — https://www.enam.gov.in/
 4. Open Government Data Platform India — https://www.data.gov.in/
 5. Food and Agriculture Organization of the United Nations — https://www.fao.org/
+
+<img width="1312" height="1199" alt="ca330504-90fb-4903-9e7d-64db0b3b1da0" src="https://github.com/user-attachments/assets/27e4999e-dc91-4105-8198-47cbbdd4d2ff" />
+
